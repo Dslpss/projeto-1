@@ -1,2 +1,4 @@
-const m = "Mercado pago"
-console.log(m)
+const m = "Mercado pago";
+
+const p = "pagamento";
+console.log(m, p);
